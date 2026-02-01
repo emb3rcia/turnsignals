@@ -1,5 +1,5 @@
 # stm32-module
-Hello! This project is very simple, but to some people may be very needed, this is turnsignals module for PC steering wheels like logitech g29, made for HackClub's Blueprint program. It features USB-C (USB-FS standard) port for data and power and ESD protection on VBUS, DATA channels and CC channels!
+Hello! This project is very simple, but to some people may be very needed, this is turnsignals module for PC steering wheels like logitech g29, made for HackClub's Blueprint program. It features USB-C (USB-FS standard) port for data and power and ESD protection on VBUS, DATA channels and CC channels! Firmware is given as whole STM32CubeIDE project. It is generated in STM32CubeMX and then the rest written in STM32CubeIDE
 # Images
 Schematic
 
