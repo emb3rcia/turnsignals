@@ -9,9 +9,29 @@ PCB
 
 ![PCB](Images/PCB.png)
 
-3D
+3D KiCad viewer
 
 ![3D](Images/3D.png)
+
+3D PCB
+
+![3D PCB](Images/pcb-3D.png)
+
+3D Assembled
+
+![3D Assembled](Images/assembled-3D.png)
+
+3D Lever
+
+![3D Lever](Images/lever-3D.png)
+
+3D Case (top)
+
+![3D Case](Images/top_case-3D.png)
+
+3D Case (bottom)
+![3d Case](Images/bottom_case-3D.png)
+
 # Datasheets & part list
 Here you can find datasheet for every part and exact part number for it i used:
 - MCU: [STM Electronics STM32F042K6T6 LQFP-32 Package](Datasheets/STM32F042K6T6.pdf)
