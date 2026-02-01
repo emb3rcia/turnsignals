@@ -1,0 +1,356 @@
+(footprint "TS406643BK160SMTTR"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "TS40-66-43-BK-160-SMT-TR-1")
+	(tags "Switch")
+	(property "Reference" "REF**"
+		(at -1.6 4 180)
+		(layer "F.SilkS")
+		(uuid "62c1ccc5-a4e3-4d6a-94db-8ff6bb40b631")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SHOU HAN TS6643TP 250gf 009"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "5b61f2e7-7186-495f-b702-601aad6952e7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "SamacSys_Parts:TS406643BK160SMTTR"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "90896f5b-a27f-406c-a6af-5cf7a574fc17")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.sameskydevices.com/product/resource/ts40.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9f754fb0-7d4a-4064-81b4-a0e93ebe8e41")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "6 x 6 mm, 4.3 mm Actuator Height Off PCB, 160 gf, Black, Surface Mount, SPST, Tactile Switch , 0.05A @ 12VDC , -20C ~ 70C"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d92d014-c317-45b1-b50d-437504225f3f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "4.4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41e0c672-e0fd-4085-896e-148df9a22885")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Same Sky"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56f70df0-d002-4a2b-bba0-56a46ed86a70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "TS40-66-43-BK-160-SMT-TR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c8cf8db3-2f25-4ff3-98ab-1fc270a70604")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4fcead18-d667-4d18-b162-36d868b66e66")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "30d17e6d-a21e-4d9e-9853-0405b3f943f6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04a5aaac-51f8-40bc-a975-e30e484e9745")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e2bde81-4422-4a76-8128-0f6b6ca5a7a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5.5 -2.25)
+		(end -5.5 -2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ac551076-70d8-4a76-bac1-cd66ec1f83b6")
+	)
+	(fp_line
+		(start -5.4 -2.25)
+		(end -5.4 -2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7a350646-9c85-4c54-9287-1669b971d5d3")
+	)
+	(fp_line
+		(start -3 -1.4)
+		(end -3 1.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a3294d83-f631-4fe0-9107-dfdd46207f46")
+	)
+	(fp_line
+		(start -2.8 -3)
+		(end 2.8 -3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3c54e91c-5de4-4dc8-9083-9c5b39600025")
+	)
+	(fp_line
+		(start -2.8 3)
+		(end 2.8 3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d8a02424-1553-4bf7-8cb4-72b6851f8785")
+	)
+	(fp_line
+		(start 3 -1.4)
+		(end 3 1.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fc1d7bf1-caa4-4822-87e8-b5779457038a")
+	)
+	(fp_arc
+		(start -5.5 -2.25)
+		(mid -5.45 -2.3)
+		(end -5.4 -2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8e46ebfb-4204-4f5d-a46e-7ac06a4926eb")
+	)
+	(fp_arc
+		(start -5.4 -2.25)
+		(mid -5.45 -2.2)
+		(end -5.5 -2.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "05540c6a-ab4b-4f4b-8bc0-de5f6a1979bb")
+	)
+	(fp_line
+		(start -6 -4)
+		(end 6 -4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "350b38ae-4c95-435f-a014-7da9ff8f0ad1")
+	)
+	(fp_line
+		(start -6 4)
+		(end -6 -4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b37cd134-ad80-4c7f-ba2d-de1244858971")
+	)
+	(fp_line
+		(start 6 -4)
+		(end 6 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9e0c94ea-b338-401e-99de-ee039b137f07")
+	)
+	(fp_line
+		(start 6 4)
+		(end -6 4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "36456281-4dca-4167-a574-f584ed68d4e8")
+	)
+	(fp_line
+		(start -3 -3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1fb0638e-8e93-4fe3-b274-fe0cffdacd13")
+	)
+	(fp_line
+		(start -3 3)
+		(end -3 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7dd22576-75e0-404c-9886-17d81cd2dc0f")
+	)
+	(fp_line
+		(start 3 -3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "21b0cad0-e988-46cd-b3fe-b19514ae71cc")
+	)
+	(fp_line
+		(start 3 3)
+		(end -3 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "64b400f4-f28c-447c-9db2-1c02c6af7a4f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a5cfe7ac-f954-48e5-8c8d-bd4cd7b57b86")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -4.1 -2.25 90)
+		(size 1.1 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "740830d4-f2fa-4fd4-ab4b-eb7fc3a54446")
+	)
+	(pad "2" smd rect
+		(at 4.1 -2.25 90)
+		(size 1.1 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e209057d-4f0e-4e4e-b7e0-495fa802d4f5")
+	)
+	(pad "3" smd rect
+		(at -4.1 2.25 90)
+		(size 1.1 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "3d77277d-2b70-48fa-99a6-ecd8f83d68a7")
+	)
+	(pad "4" smd rect
+		(at 4.1 2.25 90)
+		(size 1.1 1.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d1d192eb-f21d-4d9e-bcbc-939d6e0a6a75")
+	)
+)
