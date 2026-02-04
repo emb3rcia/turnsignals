@@ -1,14 +1,14 @@
 (footprint "SODFL4626X140N"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "（SMAF）")
 	(tags "TVS Diode (Uni-directional)")
 	(property "Reference" "REF**"
 		(at -0.05 2.4 180)
 		(layer "F.SilkS")
-		(uuid "bdb765a3-bc90-44b5-a6ec-a25b48ca5d09")
+		(uuid "3949bd1f-144d-48f5-bd59-c7f4f956efbf")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20,7 +20,7 @@
 		(at 0 0 180)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "bef45790-7758-4c85-862a-57ad75b22485")
+		(uuid "e6acfd61-ceff-4dde-b8fa-47355912a98b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28,23 +28,11 @@
 			)
 		)
 	)
-	(property "Footprint" "SamacSys_Parts:SODFL4626X140N"
-		(at 0 0 180)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "93c7686d-ac8b-495f-8fd7-25ea5eeb29a7")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
-		)
-	)
 	(property "Datasheet" "https://www.yageogroup.com/content/Resource%20Library/Datasheet/SMA6L.pdf"
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "351b9149-9a03-4437-86df-9046934b9fbb")
+		(uuid "e6b1a64f-c245-4bb0-acec-4598e2de43a3")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56,7 +44,7 @@
 		(at 0 0 180)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5be97696-e668-40bd-86cb-00f501ab6f61")
+		(uuid "d987a83c-19af-4f74-827c-08e1301a30ee")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -69,7 +57,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a6119b52-b96a-43b2-8538-889e2e697aaf")
+		(uuid "d3a4b7dd-cacf-49a4-a20e-45bba3423c58")
 		(effects
 			(font
 				(size 1 1)
@@ -82,7 +70,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "338c7395-a504-44c4-a211-020e9226ca29")
+		(uuid "2aa70b8c-acf7-4cb8-bddf-7d904ff6f899")
 		(effects
 			(font
 				(size 1 1)
@@ -95,7 +83,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "1ac0392f-7d9a-41b5-a9bb-157ead55e06e")
+		(uuid "23a183ef-527d-4546-93fd-1b74feb65494")
 		(effects
 			(font
 				(size 1 1)
@@ -108,7 +96,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6af6ac55-fee7-43ee-9643-de32a247a7a2")
+		(uuid "21f7c168-0b98-4cef-9e0f-40a7c72a922b")
 		(effects
 			(font
 				(size 1 1)
@@ -121,7 +109,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "de705812-4250-4ac2-840d-dfe6b4dedb8f")
+		(uuid "800da07b-44ee-47f1-aeb5-f596cfb5a94a")
 		(effects
 			(font
 				(size 1 1)
@@ -134,7 +122,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "599078dd-56c2-4cf4-888c-30f3901e6d75")
+		(uuid "a4e304cc-6dcb-4578-9f6b-c977baa701cc")
 		(effects
 			(font
 				(size 1 1)
@@ -147,7 +135,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "eaa07112-cfe0-4bbd-9aa4-09f0371dff8c")
+		(uuid "a170c9b0-7fe3-47b9-86e5-be2e7c324c37")
 		(effects
 			(font
 				(size 1 1)
@@ -164,7 +152,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "28a340f3-2496-436e-bd93-bc555925012e")
+		(uuid "9fcc3131-8b69-43c3-b863-2205a1e276be")
 	)
 	(fp_line
 		(start -1.75 1.3)
@@ -174,7 +162,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "743a47df-ffa4-45a7-9367-93150330d7a5")
+		(uuid "f6ca8414-0f14-458f-81eb-cd6baed3cb5f")
 	)
 	(fp_line
 		(start -2.795 -1.55)
@@ -184,7 +172,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "170e93dc-6cfd-4197-99f0-f47b25c5230e")
+		(uuid "a1858b06-f502-4971-9c46-4dc8bb86061d")
 	)
 	(fp_line
 		(start -2.795 1.55)
@@ -194,7 +182,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "5a43e1d3-3315-4a99-bb2b-a583d7f0e89d")
+		(uuid "8754ad56-9aa9-4d07-97ef-eb6ca76d85d8")
 	)
 	(fp_line
 		(start 2.795 -1.55)
@@ -204,7 +192,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "cdcef620-95b7-435c-8317-5fa8809f3664")
+		(uuid "ac20db42-6ad2-44cf-8efa-ea0c778c4faa")
 	)
 	(fp_line
 		(start 2.795 1.55)
@@ -214,7 +202,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "4b98b291-092c-4c8b-9af5-b7de3fe85d04")
+		(uuid "516a04a0-d2fe-47f6-8859-a9fedb4d80f8")
 	)
 	(fp_line
 		(start -1.75 -1.3)
@@ -224,7 +212,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "98589b39-693f-4214-9555-ced6986dd7cf")
+		(uuid "e403d805-5087-499c-975f-498ab2efafb5")
 	)
 	(fp_line
 		(start -1.75 -0.555)
@@ -234,7 +222,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "1a3bef6c-d485-42f0-8046-0720e3e0627f")
+		(uuid "aab62071-c6aa-4d8a-8bc1-ef7dc339bee7")
 	)
 	(fp_line
 		(start -1.75 1.3)
@@ -244,7 +232,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "610a0c1c-3828-4a6e-aec9-c352da64ffbb")
+		(uuid "88989317-4a25-4d73-a54b-e973f3c67ef3")
 	)
 	(fp_line
 		(start 1.75 -1.3)
@@ -254,7 +242,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "b53a9a4b-304c-4e37-b05c-630bb7bb761f")
+		(uuid "c4cf701e-2b8a-4313-81a0-d90663bd44d9")
 	)
 	(fp_line
 		(start 1.75 1.3)
@@ -264,12 +252,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "92073b2c-6f7b-4c1e-a417-0776eef3df63")
+		(uuid "8c37c593-5253-4882-85de-15287a71d10a")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 180)
 		(layer "F.Fab")
-		(uuid "69878d9b-9e71-4aa3-b2f7-793a4beda670")
+		(uuid "d5a96c97-a47c-4aac-a738-b26d3875fb02")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -280,15 +268,16 @@
 	(pad "1" smd rect
 		(at -1.9 0)
 		(size 1.49 1.63)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "ee159442-eb4f-424c-8cd5-b78a53a6edaf")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6f87b1cc-2cda-487a-b85c-c5f943ed4012")
 	)
 	(pad "2" smd rect
 		(at 1.9 0)
 		(size 1.49 1.63)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "2dd6195f-39ad-43af-884a-54b454d16301")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "73256d2c-cba2-4cf7-a532-6fd39c9770a7")
 	)
+	(embedded_fonts no)
 	(model "C:\\Users\\ember\\Documents\\KiCad\\8.0\\cse\\SamacSys_Parts.3dshapes\\SMA6L5.0A_TR13.stp"
 		(offset
 			(xyz 0 0 0)

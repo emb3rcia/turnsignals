@@ -1,14 +1,14 @@
 (footprint "SOT50P160X90-3N"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "-SC-75 (SOT-523)")
 	(tags "TVS Diode (Uni-directional)")
 	(property "Reference" "REF**"
-		(at 0 0 180)
+		(at 0 0 0)
 		(layer "F.SilkS")
-		(uuid "182a3a36-f28a-49d1-8573-afb9fbbca970")
+		(uuid "8dc7ea2b-8a5d-4734-b4e4-cc0fb61723d5")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17,10 +17,10 @@
 		)
 	)
 	(property "Value" "RCLAMP0502BATCT"
-		(at 0 0 180)
+		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "474aa3ed-5ea7-4fc0-8195-87e0c86e9bd5")
+		(uuid "42b16a17-03c0-4531-9887-5e56b2d08e9e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28,23 +28,11 @@
 			)
 		)
 	)
-	(property "Footprint" "SamacSys_Parts:SOT50P160X90-3N"
-		(at 0 0 180)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "f1c3100a-a156-46a0-8a04-89d01a7473f1")
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.15)
-			)
-		)
-	)
 	(property "Datasheet" "https://rs.componentsearchengine.com/Datasheets/1/RCLAMP0502BATCT.pdf"
-		(at 0 0 180)
+		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b8948a48-574e-430e-8800-5a6ec03301a7")
+		(uuid "47434f38-91ed-484c-baba-9066a36c98e6")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -53,10 +41,10 @@
 		)
 	)
 	(property "Description" "ESD Suppressors / TVS Diodes Low Capacitance ESD & CDE Protection"
-		(at 0 0 180)
+		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f953a25c-0b26-42d1-a10e-362d9ef86460")
+		(uuid "fc1268fa-35f0-4796-8ebf-9704bbb68eeb")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -65,11 +53,11 @@
 		)
 	)
 	(property "Height" "0.9"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "de281871-0dff-4180-a666-5c4e8d07edb9")
+		(uuid "488b9a3e-de8d-473b-a381-1cc4eb63ee9b")
 		(effects
 			(font
 				(size 1 1)
@@ -78,11 +66,11 @@
 		)
 	)
 	(property "Manufacturer_Name" "SEMTECH"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "83a87250-8d64-4d23-9b9b-cf74c341ed41")
+		(uuid "c92cfd72-4d52-4144-b194-4b3d97ebea37")
 		(effects
 			(font
 				(size 1 1)
@@ -91,11 +79,11 @@
 		)
 	)
 	(property "Manufacturer_Part_Number" "RCLAMP0502BATCT"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "40602778-8292-42ac-93a5-d69d0247ab72")
+		(uuid "0d3e44ca-7794-4b7a-bd30-f934d7efa3b8")
 		(effects
 			(font
 				(size 1 1)
@@ -104,11 +92,11 @@
 		)
 	)
 	(property "Mouser Part Number" "947-RCLAMP0502BATCT"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "4ab7bc82-7948-477d-9656-d6b809ae1eef")
+		(uuid "295f9a69-ec72-434c-afd4-d763a24c291a")
 		(effects
 			(font
 				(size 1 1)
@@ -117,11 +105,11 @@
 		)
 	)
 	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Semtech/RCLAMP0502BATCT?qs=rBWM4%252BvDhIc%2FZh6P%252BVApRQ%3D%3D"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0e804f15-487c-484e-a162-52450c5bfaf0")
+		(uuid "bb91d96e-cb73-4dcd-8ad0-c27d28aef56f")
 		(effects
 			(font
 				(size 1 1)
@@ -130,11 +118,11 @@
 		)
 	)
 	(property "Arrow Part Number" "RCLAMP0502BATCT"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "25da05a7-914a-44e6-b39a-4308f9b8e020")
+		(uuid "1e883a7b-009d-46d5-92c0-75db6c65136a")
 		(effects
 			(font
 				(size 1 1)
@@ -143,11 +131,11 @@
 		)
 	)
 	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/rclamp0502batct/semtech?utm_currency=USD&region=nac"
-		(at 0 0 0)
+		(at 0 0 180)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "32ad4b74-edcd-4523-a1be-c43b7f20a5f5")
+		(uuid "516b9fc4-8315-4239-89e0-6a1edbc36bd2")
 		(effects
 			(font
 				(size 1 1)
@@ -157,109 +145,109 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -1.25 -0.95)
-		(end -0.35 -0.95)
+		(start -0.35 -0.95)
+		(end -1.25 -0.95)
 		(stroke
 			(width 0.2)
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "fa8d4ba6-bab6-4594-9911-d5bb51f9a761")
+		(uuid "f441eb32-d87c-455b-82a6-e3290d80812d")
 	)
 	(fp_line
-		(start -1.5 -1.1)
+		(start 1.5 1.1)
 		(end 1.5 -1.1)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "3ba734e2-fd95-49c2-878e-f6a58ea84f16")
+		(uuid "d95ac05f-e52f-4f92-b22e-7f7077da01b4")
 	)
 	(fp_line
-		(start -1.5 1.1)
+		(start 1.5 -1.1)
 		(end -1.5 -1.1)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "94dcfdf3-cb3f-477e-ae90-77102b50d975")
+		(uuid "ade42d56-182a-4e1c-9d08-c0cc17a960ad")
 	)
 	(fp_line
-		(start 1.5 -1.1)
+		(start -1.5 1.1)
 		(end 1.5 1.1)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "11931080-25ca-40fc-9aad-0cd9a843abde")
+		(uuid "6c61763d-31b5-45fd-a4c3-44a5674f100a")
 	)
 	(fp_line
-		(start 1.5 1.1)
+		(start -1.5 -1.1)
 		(end -1.5 1.1)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "236bf5d1-c6de-4f7d-b02a-8efe5875f58f")
+		(uuid "985fb1cf-5c52-4976-a8de-7e7f035fbf79")
 	)
 	(fp_line
-		(start -0.4 -0.8)
+		(start 0.4 0.8)
 		(end 0.4 -0.8)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "5a578a72-32e0-4ae0-a151-1063c2332ac8")
+		(uuid "04eaa0c5-19e6-4105-87b2-ee86d9582246")
 	)
 	(fp_line
-		(start -0.4 -0.3)
-		(end 0.1 -0.8)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "9c1c98e5-b491-4b30-a74d-c73abe835b0d")
-	)
-	(fp_line
-		(start -0.4 0.8)
+		(start 0.4 -0.8)
 		(end -0.4 -0.8)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "076373e9-431f-4fa2-b998-99df617f275e")
+		(uuid "5845571c-0ab0-420e-8e3b-bb6d048b7e07")
 	)
 	(fp_line
-		(start 0.4 -0.8)
+		(start 0.1 -0.8)
+		(end -0.4 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e585d025-4f9f-43a9-b40f-2f02f217072e")
+	)
+	(fp_line
+		(start -0.4 0.8)
 		(end 0.4 0.8)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "89d3599c-50f6-419c-9679-6b9ae1f08601")
+		(uuid "5b41a0cf-3f51-42a2-ad48-fa01828f1918")
 	)
 	(fp_line
-		(start 0.4 0.8)
+		(start -0.4 -0.8)
 		(end -0.4 0.8)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "44fb7f53-9af1-44b4-a42f-2626c1877385")
+		(uuid "b25c2220-cada-48f9-8b7e-c6573a552793")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 180)
+		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "a4eda85c-ab9b-431d-91a4-625ea4430a86")
+		(uuid "4e06a1da-fbc1-4f2a-bfc9-a06d83445b00")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -268,23 +256,24 @@
 		)
 	)
 	(pad "1" smd rect
-		(at -0.8 -0.5 90)
+		(at -0.8 -0.5 270)
 		(size 0.4 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "79f58cd3-4541-4bb6-8263-d2129d4c66b8")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "968ccabd-fc24-4021-8edf-670f0481b059")
 	)
 	(pad "2" smd rect
-		(at -0.8 0.5 90)
+		(at -0.8 0.5 270)
 		(size 0.4 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "064b2b31-1b57-480f-8fa3-5741912292d2")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0aebcc3d-3b82-4e51-a251-9ea6e01dd641")
 	)
 	(pad "3" smd rect
-		(at 0.8 0 90)
+		(at 0.8 0 270)
 		(size 0.4 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "fc41bb3f-3c14-4cbe-b9f4-9865c8e384e4")
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6d2f9af6-5373-4dfd-83f9-1536e4a35160")
 	)
+	(embedded_fonts no)
 	(model "C:\\Users\\ember\\Documents\\KiCad\\8.0\\cse\\SamacSys_Parts.3dshapes\\RCLAMP0502BATCT.stp"
 		(offset
 			(xyz 0 0 0)
