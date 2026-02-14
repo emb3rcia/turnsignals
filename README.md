@@ -1,4 +1,4 @@
-# stm32-module
+# turnsignals
 Hello! This project is very simple, but to some people may be very needed, this is turnsignals module for PC steering wheels like logitech g29, made for HackClub's Blueprint program. It features USB-C (USB-FS standard) port for data and power and ESD protection on VBUS, DATA channels and CC channels! Firmware is given as whole STM32CubeIDE project. It is generated in STM32CubeMX and then the rest written in STM32CubeIDE
 # Images
 Schematic
@@ -65,6 +65,7 @@ Here you can find datasheet for every part and exact part number for it i used:
 |Shuntian PB1.6X4              |Mouting screws              |4     |10     |minimal order size is 10         |0.04$         |0.42$           |https://www.lcsc.com/product-detail/C357374.html?s_z=n_1.6x4          |
 |Dailywell 1MS1T1B1M1QES-5     |Lever Toggle switch         |1     |1      |-                                |1.01$         |1.01$           |https://www.lcsc.com/product-detail/C496154.html?s_z=n_1MS1T1B1M1QES-5|
 |PCB                           |PCB                         |1     |5      |5 is minimal order amount        |-             |7$+1.5$ delivery|https://jlcpcb.com/                                                   |
+
 
 
 
